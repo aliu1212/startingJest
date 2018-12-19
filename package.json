@@ -1,0 +1,22 @@
+{
+  "name": "alex",
+  "version": "1.0.0",
+  "description": "repo for learning how to use jest testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliu1212/startingJest.git"
+  },
+  "author": "aliu1212",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliu1212/startingJest/issues"
+  },
+  "homepage": "https://github.com/aliu1212/startingJest#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
